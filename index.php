@@ -4,7 +4,7 @@ welcome to A very small website on cloud.
 
 <pre>
 <?php
-print `date`
+print `date`;
 print `ifconfig`;
 
 ?>
